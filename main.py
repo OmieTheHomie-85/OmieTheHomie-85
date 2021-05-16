@@ -334,4 +334,4 @@ async def buy_this(user,item_name,amount):
 
 
 # Run the client on the server
-client.run('NjkxNDYzMTg0MDk1MjQ4NDE1.XngVRQ.vlDgUh5EHy16dHYuoDtx1u_nnis')
+client.run('TOKEN')
